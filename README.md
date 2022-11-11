@@ -15,4 +15,4 @@ stack web application.
 
 ## Setup and run on local device:
 * git clone this repository into your local device.
-* run ```npm i && npm start``` for the client side and ```npm i && npm start:dev``` for the server side to start the app.
+* run ```npm i && npm start``` on the client side (within the client directory) and ```npm i && npm start:dev``` on the server side (within the server directory) to start the app.
