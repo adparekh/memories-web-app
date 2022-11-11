@@ -8,11 +8,11 @@ The Memories web app is a fullstack MERN application. This application is create
 
 The front-end was built in the React.js framework, while the backend was built using Redux and Express with MongoDB as the database. This web application:
 
-* Handles and dispatches HTTP request from NodeJs server using Express
+* Handles and dispatches HTTP request from NodeJs server using Express.
 * Integrates CRUD operations like creating, liking, deleting and editing a memory post with MongoDB.
 * Uses React, Redux and Material UI to create the front-end resulting in a modern responsive UI in a MERN
 stack web application.
 
 ## Setup and run on local device:
-* git clone this repository into your local device
-* run ```npm i && npm start``` for both client and ```npm i && npm start:dev``` server side to start the app
+* git clone this repository into your local device.
+* run ```npm i && npm start``` for the client side and ```npm i && npm start:dev``` for the server side to start the app.
