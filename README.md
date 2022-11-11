@@ -14,4 +14,5 @@ The front-end was built in the React.js framework, while the backend was built u
 stack web application.
 
 ## Setup and run on local device:
-- run ```npm i && npm start``` for both client and server side to start the app
+* git clone this repository into your local device
+* run ```npm i && npm start``` for both client and ```npm i && npm start:dev``` server side to start the app
